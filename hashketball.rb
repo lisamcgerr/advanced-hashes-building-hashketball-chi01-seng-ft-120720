@@ -97,7 +97,7 @@ def game_hash
         :steals => 1 ,
         :blocks => 1 ,
         :slam_dunks => 0 },
-        {:player_name => "Kemba Walker",
+        {:player_name => "Kemba Walker" ,
         :number => 33 ,
         :shoe => 15 ,
         :points => 6 ,
